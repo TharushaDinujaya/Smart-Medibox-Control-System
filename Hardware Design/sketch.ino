@@ -13,12 +13,12 @@
 #define SCREEN_ADDRESS 0x3C
 
 #define BUZZER 5
-#define LED_1 2
+#define LED_1 4
 #define PB_CANCEL 34
 #define PB_OK 25
 #define PB_UP 26
 #define PB_DOWN 35
-#define DHTPIN 12
+#define DHTPIN 2
 #define LDR_RIGHT 32
 #define LDR_LEFT 33
 #define SERVO_PIN 27
