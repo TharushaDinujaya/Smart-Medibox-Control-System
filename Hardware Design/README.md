@@ -1,9 +1,21 @@
-# Wokwi project
+## Virtual Simulation:
 
-This is a Wokwi project. Please edit this README file and add a description of your project.
+You can run this project virtually using the Wokwi platform online or VS Code extension.
 
-## Usage
+1. Add parts by clicking the blue "+" button in the diagram editor.
+2. Connect parts by dragging wires between them.
+3. Click the green play button to start the simulation.
 
-1. Add parts by clicking the blue "+" button in the diagram editor
-2. Connect parts by dragging wires between them
-3. Click the green play button to start the simulation
+## Running Code:
+
+This project can also be run in Visual Studio Code (VS Code) with appropriate extensions.
+
+You need to install
+**Adafruit GFX Library**
+**Adafruit SSD1306**
+**DHT11**
+**DHT sensor library for ESPx**
+**NTPClient**
+**PubSubClient**
+**ServoESP32Fix** Libraries before uploading to the ESP32 Micro Controller.
+If you're implementing a physical PCB or prototype, upload the sketch .ino code using the Arduino IDE or another compatible platform.
