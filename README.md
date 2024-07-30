@@ -45,7 +45,6 @@ Smart Medibox is an IoT-based solution designed to help manage medication schedu
 | Buzzer     | ![Buzzer](https://github.com/TharushaDinujaya/Smart-Medibox-Control-System/blob/main/docs/buzzer.jpeg) |
 | LM1117     | ![LM1117](https://github.com/TharushaDinujaya/Smart-Medibox-Control-System/blob/main/docs/LM1117.jpeg) |
 | Resistors     | ![Resistors](https://github.com/TharushaDinujaya/Smart-Medibox-Control-System/blob/main/docs/Resistors.jpg) |
-| Buzzer     | ![Buzzer](https://github.com/TharushaDinujaya/Smart-Medibox-Control-System/blob/main/docs/buzzer.jpeg) |
 | Jumper Wires     | ![Jumpers](https://github.com/TharushaDinujaya/Smart-Medibox-Control-System/blob/main/docs/Jumpers.jpg) |
 | LEDs     | ![LEDs](https://github.com/TharushaDinujaya/Smart-Medibox-Control-System/blob/main/docs/LED.jpeg) |
 
