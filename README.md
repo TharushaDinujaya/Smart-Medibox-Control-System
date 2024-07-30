@@ -33,6 +33,22 @@ Smart Medibox is an IoT-based solution designed to help manage medication schedu
 
 ## Preview
 
+### Required Components
+| Component | Image |
+| --------- | ----- |
+| ESP32     | ![ESP32](https://github.com/TharushaDinujaya/Smart-Medibox-Control-System/blob/main/docs/ESP32.jpeg) |
+| DHT22     | ![DHT22](https://github.com/TharushaDinujaya/Smart-Medibox-Control-System/blob/main/docs/DHT22.jpeg) |
+| LDR     | ![LDR](https://github.com/TharushaDinujaya/Smart-Medibox-Control-System/blob/main/docs/LDR.jpeg) |
+| OLED Display     | ![OLED Display](https://github.com/TharushaDinujaya/Smart-Medibox-Control-System/blob/main/docs/OLED.jpeg) |
+| Servo Motor     | ![Servo Motor](https://github.com/TharushaDinujaya/Smart-Medibox-Control-System/blob/main/docs/Servo.jpeg) |
+| Push Down Buttons     | ![Buttons](https://github.com/TharushaDinujaya/Smart-Medibox-Control-System/blob/main/docs/button.jpg) |
+| Buzzer     | ![Buzzer](https://github.com/TharushaDinujaya/Smart-Medibox-Control-System/blob/main/docs/buzzer.jpeg) |
+| LM1117     | ![LM1117](https://github.com/TharushaDinujaya/Smart-Medibox-Control-System/blob/main/docs/LM1117.jpeg) |
+| Resistors     | ![Resistors](https://github.com/TharushaDinujaya/Smart-Medibox-Control-System/blob/main/docs/Resistors.jpg) |
+| Buzzer     | ![Buzzer](https://github.com/TharushaDinujaya/Smart-Medibox-Control-System/blob/main/docs/buzzer.jpeg) |
+| Jumper Wires     | ![Jumpers](https://github.com/TharushaDinujaya/Smart-Medibox-Control-System/blob/main/docs/Jumpers.jpg) |
+| LEDs     | ![LEDs](https://github.com/TharushaDinujaya/Smart-Medibox-Control-System/blob/main/docs/LED.jpeg) |
+
 ### Components Connection Block Diagram
 
 ![Components Connection Block Diagram](https://github.com/TharushaDinujaya/Smart-Medibox-Control-System/blob/main/docs/BlockDiagram.png)
