@@ -11,11 +11,11 @@ You can run this project virtually using the Wokwi platform online or VS Code ex
 This project can also be run in Visual Studio Code (VS Code) with appropriate extensions.
 
 You need to install
-**Adafruit GFX Library**
-**Adafruit SSD1306**
-**DHT11**
-**DHT sensor library for ESPx**
-**NTPClient**
-**PubSubClient**
+**Adafruit GFX Library** ,
+**Adafruit SSD1306** ,
+**DHT11** ,
+**DHT sensor library for ESPx** ,
+**NTPClient** ,
+**PubSubClient** , and
 **ServoESP32Fix** Libraries before uploading to the ESP32 Micro Controller.
 If you're implementing a physical PCB or prototype, upload the sketch .ino code using the Arduino IDE or another compatible platform.
