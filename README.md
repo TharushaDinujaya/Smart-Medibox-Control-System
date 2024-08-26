@@ -5,7 +5,7 @@ Smart Medibox is an IoT-based solution designed to help manage medication schedu
 ## Features
 
 - **Sensors**:
-  - **Temperature & Humidity Sensor (DHT22 or DHT11)**: Monitors the environment inside the Medibox to ensure medications are stored in optimal conditions.
+  - **Temperature & Humidity Sensor (DHT22 or DHT11 also user can use BMP280 or BME280 with pressure sensing)**: Monitors the environment inside the Medibox to ensure medications are stored in optimal conditions.
   - **Light Intensity Sensors (2 x LDR)**: Measures ambient light levels to help ensure the Medibox is in an appropriate environment.
 - **Alarms(Buzzer)**:
   - Configurable alarms for medication times, with notifications via LEDs and sound.
